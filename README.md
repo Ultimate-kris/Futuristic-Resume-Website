@@ -8,15 +8,12 @@ Built with a focus on **clean UI, performance, and user experience**.
 
 ## 🌐 Live Demo
 
-🔗 https://ultimate-kris.github.io/Futuristic-Resume-Website/
+https://futuristicresumewebsite.netlify.app/
 
 ---
 
 ## 📸 Preview
-
-<p align="center">
-  <img src="assets/screenshot.png" alt="Portfolio Preview" width="800"/>
-</p>
+<img width="1883" height="830" alt="Screenshot 2026-04-30 000144" src="https://github.com/user-attachments/assets/21b54bb5-7fe0-4234-accf-f1d25df70c2b" />
 
 ---
 
