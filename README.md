@@ -65,5 +65,3 @@ Krishna Singh
 ---
 
 ⭐ If you found this project useful, consider giving it a star.
-![GitHub repo size](https://img.shields.io/github/repo-size/Ultimate-kris/Futuristic-Resume-Website)
-![GitHub stars](https://img.shields.io/github/stars/Ultimate-kris/Futuristic-Resume-Website)
