@@ -19,7 +19,6 @@ body{
     color: var(--text-bright);
     overflow-y: auto;
     min-height:100vh;
-   
 }
 body::before{
     content: "";
@@ -32,7 +31,14 @@ body::before{
    radial-gradient(circle at 80% 20%,rgba(0,242,255,0.5),transparent 30%) ;
    z-index: -1;
 }
-
+::-webkit-scrollbar{
+    background-color:black;
+    width:0.8rem;
+}
+::-webkit-scrollbar-thumb{
+    background-color:var(--neon-blue);
+  
+}
 
 /* navbar design */
 .glassNav{
