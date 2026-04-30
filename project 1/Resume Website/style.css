@@ -490,6 +490,9 @@ flex:1
 
 }
 @media (max-width:768px){
+    .cursorGlow{
+        display: none;
+    }
     .glassNav{
         width:100%;
     }
@@ -498,15 +501,26 @@ flex:1
         }
     .hero{
         flex-direction: column;
+        align-items:center;
+        justify-content: center;
         text-align: center;
-        margin-top:9.5rem;
-         margin-bottom:9rem;
-
+        width:100%;
+        margin:8rem auto 8rem auto;
+         padding:0 ;    
     }
+    .heroContent{
+        display: flex;
+        flex-direction: column;
+width: 100%;
+        align-items: center;
+    }
+    
     .hero h1{
         font-size:3rem;
         margin-top: 2rem;
     }
+    
+  
     .visualOrb{
         width:220px;
         height:220px;
