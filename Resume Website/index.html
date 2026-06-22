@@ -52,17 +52,17 @@
         </h1>
         <p class="heroDescrip">
           Architecting the future through clean code and interactive
-          experiences. Exploring the depths of React and Backend Systems.
+          experiences. Exploring the depths of React Advance.
         </p>
         <div class="heroBtn">
           <a href="#projects" class="btnPrimary">VIEW_PROJECTS</a>
-          <a href="Assets/Krishna_Singh_Resume.pdf" target="_blank" class="btnSecondary">GET_RESUME</a>
+          <a href="/Resume Website/Assets/Resume/Krishna Resume.pdf" target="_blank" class="btnSecondary">GET_RESUME</a>
         </div>
       </div>
       <!-- Image design 2flex -->
       <div class="heroVisual">
         <div class="visualOrb">
-          <img src="/Assets/images/krishna.png" alt="Profile" class="profile-img" />
+          <img src="/Resume Website/Assets/images/krishna.png" alt="Profile" class="profile-img" />
         </div>
       </div>
     </header>
@@ -90,8 +90,8 @@ where I can contribute my growing technical expertise to a professional team whi
     <span>HTML5</span>
         <span>CSS</span>
     <span>JavaScript</span>
-        <span>Node JS & Express JS exploring</span>
-    <span>React JS exploring</span>
+        <span>Node JS & Express JS</span>
+    <span>React JS Adv- exploring</span>
 </div>
       </div>
 
@@ -162,16 +162,17 @@ where I can contribute my growing technical expertise to a professional team whi
   <!-- 2 -->
   <div class="contactForm">
     <h2>CONTACT_FORM</h2>
-        <form>
+        <form id="contactForm" name="contact" method="POST" data-netlify="true">
+          <input type="hidden" name="form-name" value="contact" />
 <div class="inputGroup">
-  <input type="text" placeholder="YOUR_NAME">
+  <input name="name" type="text" placeholder="YOUR_NAME" required>
 </div>
 <div class="inputGroup">
-  <input type="email" placeholder="YOUR_EMAIL">
+  <input name="email" type="email" placeholder="YOUR_EMAIL" required>
 </div>
-<textarea placeholder="YOUR_MESSAGE"></textarea>
+<textarea name="textMsg" placeholder="YOUR_MESSAGE" required></textarea>
   <div>
-<button type="submit" class="submitBtn">SEND(Coming soon)</button>
+<button id="SubmitBtn" type="submit" class="submitBtn">SEND</button>
 </div>
 </form>
 </div>
