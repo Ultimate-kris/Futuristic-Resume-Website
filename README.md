@@ -8,7 +8,7 @@ Built with a focus on **clean UI, performance, and user experience**.
 
 ## 🌐 Live Demo
 
-https://futuristicresumewebsite.netlify.app/
+https://futuristic-resume-website.netlify.app/
 
 ---
 
