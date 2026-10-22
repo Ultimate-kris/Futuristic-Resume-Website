@@ -13,7 +13,8 @@ https://futuristic-resume-website.netlify.app/
 ---
 
 ## 📸 Preview
-<img width="1883" height="830" alt="Screenshot 2026-04-30 000144" src="https://github.com/user-attachments/assets/21b54bb5-7fe0-4234-accf-f1d25df70c2b" />
+<img width="1917" height="832" alt="Screenshot 2026-10-22 120407" src="https://github.com/user-attachments/assets/5f0bdddf-741d-42a0-a959-cc596c6486bf" />
+
 
 ---
 
@@ -36,9 +37,13 @@ https://futuristic-resume-website.netlify.app/
 ---
 
 ## 📂 Project Structure
+├── Assets
+    ──Favicon
+    ──Images
+    ──Resume
 ├── index.html
 ├── style.css
-├── script.js
+├── index.js
 
 ```
 
@@ -55,7 +60,7 @@ https://futuristic-resume-website.netlify.app/
 
 * GitHub: https://github.com/Ultimate-kris/
 * LinkedIn: https://www.linkedin.com/in/krishna-singh108/
-
+* Instagram: https://www.instagram.com/krishnasingh_dev/
 ---
 
 ## 👨‍💻 Author
