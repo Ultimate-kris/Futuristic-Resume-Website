@@ -713,6 +713,8 @@ justify-content: center;
 .hero{
     gap:4rem;
     margin-bottom:4rem;
+    height: auto;
+    min-height: 100vh;
 }
 
 .mainTitle{
