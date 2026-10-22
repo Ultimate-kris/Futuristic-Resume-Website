@@ -731,7 +731,7 @@ justify-content: center;
 }
     
 }
-@media (max-width:390px){
+@media (max-width:400px){
    
 .glassNav {
         width:85%;
@@ -781,65 +781,3 @@ justify-content: center;
     animation: none;
  }
 }
-/* .preTitle {
-    color: var(--neon-blue);
-    font-size: 0.85rem;
-    font-weight: 600;
-    letter-spacing: 4px;
-    margin-bottom: 1.2rem;
-}
-
-.mainTitle {
-    font-size: 4rem;
-    font-weight: 700;
-    line-height: 1.1;
-    margin-bottom: 1.2rem;
-}
-
-.subTitle {
-    margin-bottom: 1.2rem;
-    font-size: 1.5rem;
-    font-weight: 600;
-    color: var(--neon-blue);
-}
-
-.heroDescrip {
-    color: var(--text-dim);
-    font-size: 1.05rem;
-    margin-bottom: 2rem;
-    max-width: 560px;
-    line-height: 1.7;
-}
-
-.heroBtn {
-    display: flex;
-    align-items: center;
-    gap: 1.2rem;
-    margin-top: 0.5rem;
-}
-
-.btnPrimary {
-    background-color: var(--neon-blue);
-    color: var(--primary);
-    box-shadow: 0 0 20px rgba(0, 242, 255, 0.3);
-    padding: 0.5rem;
-    border-radius: 0.25rem;
-    text-decoration: none;
-    transition: background-color, color 0.3s ease;
-}
-
-.btnPrimary:hover {
-    background-color: var(--primary);
-    color: var(--neon-blue);
-    border: 1px solid var(--neon-blue);
-    transform: translateY(-2px);
-}
-
-.btnSecondary {
-    border: 1px solid var(--neon-blue);
-    color: var(--neon-blue);
-    padding: 0.5rem;
-    border-radius: 0.25rem;
-    text-decoration: none;
-    transition: background-color, color 0.3s ease-in;
-} */
