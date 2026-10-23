@@ -4,5 +4,4 @@ document.addEventListener('mousemove',(e)=>{
     cursor.style.top=e.clientY+'px';
 })
 
-document.title = window.innerWidth + "x" + window.innerHeight;
 
