@@ -655,9 +655,16 @@ justify-content:center;
     gap:4rem;
     margin-bottom:4rem;
     }
-        .heroVisual {
-            flex: none;
-        }
+          .visualOrb {
+              animation: none;
+          }
+    
+          .heroVisual {
+              flex: none;
+              width: 100%;
+              min-height: 22rem;
+          }
+
     .heroBtn{
         text-align: center;
         justify-content: center;
@@ -719,9 +726,7 @@ justify-content: center;
     height: auto;
     min-height: 100vh;
 }
- .heroVisual {
-     flex: none;
- }
+
 .mainTitle{
     font-size:3.5rem;
 }
@@ -751,9 +756,7 @@ justify-content: center;
     .logo {
         font-size: 0.7rem;
     }
- .heroVisual {
-     flex: none;
- }
+ 
     .navLinks {
         gap: 0.4rem;
     }
@@ -789,6 +792,5 @@ justify-content: center;
  .visualOrb{
     height:190px;
     width:190px;
-    animation: none;
  }
 }
