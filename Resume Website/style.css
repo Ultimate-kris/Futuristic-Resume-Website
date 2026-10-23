@@ -130,7 +130,7 @@ body{
     height:2px;
     background: var(--neon-blue);
     box-shadow: 0 0 10px var(--neon-blue);
-    transition: 0.3s;
+    transition: 0.3s ;
 }
 .navItem:hover::after{
     width:100%;
@@ -272,7 +272,7 @@ border-radius: 50%;
 object-fit: cover;
 z-index: 2;
 mix-blend-mode: normal;
-transition: 0.5 ease;
+transition: 0.5s ease;
 }
 .visualOrb img:hover{
     transform: scale(1.05);
@@ -655,6 +655,9 @@ justify-content:center;
     gap:4rem;
     margin-bottom:4rem;
     }
+        .heroVisual {
+            flex: none;
+        }
     .heroBtn{
         text-align: center;
         justify-content: center;
